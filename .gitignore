@@ -1,0 +1,13 @@
+# Do not publish actual application data in a builder repo!
+**/Data/
+**/settings.json
+**/Received Files/
+**/Temp/
+/dist/
+/stage/
+*.exe
+*.dll
+*.zip
+*.paf.exe
+__pycache__/
+*.pyc
